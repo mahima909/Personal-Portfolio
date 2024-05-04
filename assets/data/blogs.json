@@ -7,23 +7,5 @@
         "upload_date":"Apr 29, 2024",
         "reading_time":"3 min",
         "content":"I used to write because I wanted to find an escape where I was allowed to go as far as I can just to temporarily shut the reality away. I used to write because I wanted to forget for a while how cruel the world could be most of the time, how every mistake I made always etched like a tattoo on my skin that I never really chose and designed for myself. I used to write because I wanted to get lost, I wanted to forget, and I wanted to stop myself from depending on the healing power of being found in the middle of nowhere. I used to write because I wanted to run away, build a new world I will one day leave too. I used to write to numb the pain and to deviate my heart from beating on the same reasons I was supposed to let go.<br><br> But now, I write differently. I realized that I write not because I wanted to escape but because I wanted to find a home where leaving again will never be an option. I write like words were made of walls enough to protect me from the dangers of pitch-black nights. I want to write to have something to remember and that every history will be played inside my head until I could write a song about it and until I find myself dancing alone through the hums of my mumbled lyrics, even if the words mean remembering how it aches so bad. I want to write so I’ll learn to accept the things that are out of my control to change. I write because I want to find my balance in this world through words and drafts, that even erasures would still be counted. I want to write because I am tired of running away, of walking out when my phrases were questioned and when everyone’s expecting a tragic ending.<br><br> Now, I want to build a world made up of words where I will no longer be worried about exiting once again. And even if the world will turn black and white, I’ll be fine. I will write because I found belongingness there, I found a part of me that I want to keep safe. It’s through writing that I found myself finally settling down."
-    },
-    {
-        "id":2,
-        "tag":"Database",
-        "title":"Building microservices with Dropwizard, MongoDB & Docker",
-        "image":"blog-1.png",
-        "upload_date":"Jan 17, 2022",
-        "reading_time":"3 min",
-        "content":"This NoSQL database oriented to documents (by documents like JSON) combines some of the features from relational databases, easy to use and the multi-platform is the best option for scale up and have fault tolerance, load balancing, map reduce, etc."
-    },
-    {
-        "id":3,
-        "tag":"Web Performance",
-        "title":"Fast web page loading on a $20 feature phone",
-        "image":"blog-2.png",
-        "upload_date":"Dec 10, 2021",
-        "reading_time":"2 min",
-        "content":"Feature phones are affordable (under $20-25), low-end devices enabling 100s of millions of users in developing countries to leverage the web. Think of them as a light version of a smart phone."
     }
 ]
