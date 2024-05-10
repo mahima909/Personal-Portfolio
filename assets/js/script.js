@@ -58,7 +58,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((blogs) => {
       const blogsContainer = document.getElementById("blogs-container");
       blogs.forEach((blog, index) => {
-        console.log(blog.content.length);
         const blogElement = document.createElement("div");
         blogElement.classList.add("blog-card");
         blogElement.innerHTML = getBlogInnerHtml(blog, index);
