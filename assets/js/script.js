@@ -67,18 +67,3 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => console.error("Error loading the posts:", error));
 });
-
-function adminLogin() {
-  const isAdmin = localStorage.getItem("admin");
-  if (isAdmin === "true") {
-    window.location.href = "editor.html";
-  } else {
-    const password = prompt("Verification: ");
-    if (password === "admin") {
-      localStorage.setItem("admin", "true");
-      window.location.href = "editor.html";
-    } else {
-      alert("Incorrect password");
-    }
-  }
-}
