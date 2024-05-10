@@ -33,13 +33,13 @@ function getBlogInnerHtml(blog, index) {
         <div class="profile-wrapper">
           <img
             src="./assets/images/author.png"
-            alt="Mahima Kathiwoda"
+            alt="Mahima Khatiwada"
             width="50"
           />
         </div>
 
         <div class="wrapper">
-          <a href="#" class="h4">Mahima Kathiwoda</a>
+          <a href="#" class="h4">Mahima Khatiwada</a>
 
           <p class="text-sm">
             <time datetime="2022-01-17">${blog.upload_date}</time>
