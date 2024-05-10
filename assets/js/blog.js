@@ -24,3 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => console.error("Error loading the posts:", error));
 });
+function adminLogin() {
+  const password = prompt("Verification: ");
+  console.log(password);
+}
